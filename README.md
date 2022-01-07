@@ -6,12 +6,7 @@
 <p align='center'>
 </p>
  
- <p align="center">
- <img src="https://komarev.com/ghpvc/?username=hamzz&color=blue&label=Profile Views" />
- </p>
-<h3 align="left">Contact with me</h3>
-<p align="left"><a href="https://instagram.com/hamzkun_" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/instagram.svg" height="30" width="30" /></a> Instagram
-<p align="left"><a href="https://Wa.me/6285826114932" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/whatsapp.svg" height="30" width="30" /></a> WhatsApp
+href="https://Wa.me/6289625556161" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/whatsapp.svg" height="30" width="30" /></a> WhatsApp
 </p>
 Join Group Me
 
